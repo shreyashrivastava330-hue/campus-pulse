@@ -1,0 +1,401 @@
+report_id,description,category,location,reported_at,status,resolved_at
+1000,Classroom whiteboard marker supply depleted,Equipment,Lab Building,2026-08-05 18:26:00,Resolved,2026-08-06 03:26:00
+1001,Router needs to be rebooted,Wi-Fi,Lab Building,2026-10-05 03:47:00,Resolved,2026-10-11 16:47:00
+1002,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Academic Block A,2026-09-23 16:19:00,In Progress,
+1003,Broken water tap in the lab,Water,Hostel Block 2,2026-10-04 07:21:00,Resolved,2026-10-07 11:21:00
+1004,Trash not being collected regularly,Cleanliness,Lab Building,2026-10-03 21:02:00,Resolved,2026-10-08 02:02:00
+1005,Wi-Fi signal is very weak here,Wi-Fi,Hostel Block 2,2026-08-22 09:28:00,In Progress,
+1006,Quality of food has deteriorated,Canteen,Main Gate Area,2026-08-26 10:12:00,Resolved,2026-08-31 11:12:00
+1007,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-09-21 14:09:00,In Progress,
+1008,Washroom is very dirty,Cleanliness,Academic Block A,2026-09-08 12:12:00,Resolved,2026-09-14 03:12:00
+1009,Microphone system in conference room is faulty,Equipment,Lab Building,2026-09-19 23:08:00,Pending,
+1010,Washroom is very dirty,Cleanliness,Academic Block B,2026-08-11 23:19:00,Pending,
+1011,Computer lab systems are down,Equipment,Lab Building,2026-08-26 22:01:00,In Progress,
+1012,Router needs to be rebooted,Wi-Fi,Lab Building,2026-08-25 14:11:00,Resolved,2026-08-30 02:11:00
+1013,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-08-07 17:26:00,Resolved,2026-08-14 14:26:00
+1014,Leaking pipe near the washroom,Water,Canteen Area,2026-08-22 07:53:00,Pending,
+1015,AC is broken in the auditorium,Equipment,Hostel Block 1,2026-09-06 21:31:00,Resolved,2026-09-10 20:31:00
+1016,Classroom whiteboard marker supply depleted,Equipment,Academic Block B,2026-08-20 11:41:00,Resolved,2026-08-26 07:41:00
+1017,Long queues during lunch hours,Canteen,Lab Building,2026-10-08 23:34:00,Resolved,2026-10-15 11:34:00
+1018,Projector is not working in Lecture Hall 3,Equipment,Lab Building,2026-10-02 08:15:00,Pending,
+1019,Seating capacity is insufficient,Canteen,Library Block A,2026-09-15 23:57:00,Pending,
+1020,AC is broken in the auditorium,Equipment,Academic Block C,2026-08-16 01:31:00,Resolved,2026-08-19 16:31:00
+1021,Canteen is always crowded,Canteen,Hostel Block 1,2026-08-09 05:34:00,Pending,
+1022,Seating capacity is insufficient,Canteen,Lab Building,2026-08-14 23:26:00,Resolved,2026-08-15 20:26:00
+1023,AC is broken in the auditorium,Equipment,Canteen Area,2026-08-17 01:33:00,Pending,
+1024,Computer lab systems are down,Equipment,Lab Building,2026-10-07 08:37:00,Resolved,2026-10-09 04:37:00
+1025,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Hostel Block 2,2026-08-12 18:02:00,In Progress,
+1026,Floor is not cleaned properly,Cleanliness,Academic Block B,2026-10-04 09:51:00,In Progress,
+1027,Water quality is poor,Water,Hostel Block 1,2026-09-04 00:20:00,In Progress,
+1028,Prices are too high,Canteen,Lab Building,2026-08-02 06:42:00,Pending,
+1029,Water overflow in the corridor,Water,Academic Block B,2026-08-22 08:35:00,Resolved,2026-08-25 02:35:00
+1030,Router needs to be rebooted,Wi-Fi,Lab Building,2026-10-06 16:41:00,In Progress,
+1031,Water quality is poor,Water,Hostel Block 2,2026-10-03 05:52:00,In Progress,
+1032,Microphone system in conference room is faulty,Equipment,Canteen Area,2026-09-07 03:27:00,Resolved,2026-09-10 12:27:00
+1033,Dustbins overflowing,Cleanliness,Academic Block B,2026-08-19 17:40:00,In Progress,
+1034,Door lock is broken,Equipment,Academic Block A,2026-09-14 08:24:00,Pending,
+1035,Door lock is broken,Equipment,Academic Block A,2026-09-13 06:43:00,Pending,
+1036,Water dispenser is not working,Water,Lab Building,2026-09-12 03:50:00,Resolved,2026-09-17 05:50:00
+1037,Trash not being collected regularly,Cleanliness,Hostel Block 2,2026-09-12 16:53:00,Resolved,2026-09-16 13:53:00
+1038,Water dispenser is not working,Water,Sports Complex,2026-08-19 00:33:00,Resolved,2026-08-25 02:33:00
+1039,Broken water tap in the lab,Water,Academic Block C,2026-08-21 07:19:00,In Progress,
+1040,Broken water tap in the lab,Water,Academic Block B,2026-09-14 13:42:00,Resolved,2026-09-21 03:42:00
+1041,Prices are too high,Canteen,Library Block A,2026-08-26 00:05:00,Pending,
+1042,Long queues during lunch hours,Canteen,Sports Complex,2026-08-12 05:13:00,In Progress,
+1043,Menu items often unavailable,Canteen,Hostel Block 1,2026-08-13 07:01:00,Resolved,2026-08-17 19:01:00
+1044,Quality of food has deteriorated,Canteen,Academic Block A,2026-10-04 15:03:00,Pending,
+1045,Prices are too high,Canteen,Library Block A,2026-09-25 07:58:00,Pending,
+1046,AC is broken in the auditorium,Equipment,Main Gate Area,2026-09-17 13:33:00,In Progress,
+1047,Washroom is very dirty,Cleanliness,Main Gate Area,2026-09-04 18:44:00,Resolved,2026-09-07 11:44:00
+1048,Seating capacity is insufficient,Canteen,Sports Complex,2026-08-11 13:48:00,Pending,
+1049,Washroom is very dirty,Cleanliness,Lab Building,2026-08-05 20:59:00,Resolved,2026-08-08 13:59:00
+1050,Leaking pipe near the washroom,Water,Academic Block C,2026-09-11 06:11:00,Resolved,2026-09-15 17:11:00
+1051,Wi-Fi signal is very weak here,Wi-Fi,Lab Building,2026-09-01 19:42:00,In Progress,
+1052,Computer lab systems are down,Equipment,Academic Block C,2026-08-03 22:45:00,In Progress,
+1053,Water dispenser is not working,Water,Academic Block B,2026-08-30 15:08:00,Resolved,2026-08-31 03:08:00
+1054,Washroom is very dirty,Cleanliness,Academic Block A,2026-09-20 05:02:00,Pending,
+1055,Leaking pipe near the washroom,Water,Academic Block A,2026-08-22 00:45:00,Resolved,2026-08-22 17:45:00
+1056,Cannot connect to network at all,Wi-Fi,Main Gate Area,2026-08-06 10:45:00,Pending,
+1057,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-08-06 15:56:00,In Progress,
+1058,Menu items often unavailable,Canteen,Hostel Block 1,2026-08-02 04:48:00,Resolved,2026-08-08 18:48:00
+1059,Microphone system in conference room is faulty,Equipment,Main Gate Area,2026-09-20 02:59:00,In Progress,
+1060,No water available in Block B,Water,Academic Block A,2026-08-27 09:25:00,Pending,
+1061,Water overflow in the corridor,Water,Hostel Block 1,2026-08-29 20:43:00,Resolved,2026-09-03 23:43:00
+1062,Sweeping and mopping not done,Cleanliness,Library Block B,2026-10-09 11:38:00,Resolved,2026-10-14 15:38:00
+1063,Router needs to be rebooted,Wi-Fi,Sports Complex,2026-08-26 21:37:00,Resolved,2026-08-31 15:37:00
+1064,Dustbins overflowing,Cleanliness,Lab Building,2026-08-22 21:09:00,Resolved,2026-08-27 20:09:00
+1065,Classroom whiteboard marker supply depleted,Equipment,Library Block A,2026-09-30 21:18:00,In Progress,
+1066,Projector is not working in Lecture Hall 3,Equipment,Academic Block A,2026-10-10 08:15:00,Pending,
+1067,Prices are too high,Canteen,Hostel Block 1,2026-09-28 14:33:00,Resolved,2026-10-01 17:33:00
+1068,Water dispenser is not working,Water,Main Gate Area,2026-08-13 04:08:00,Resolved,2026-08-13 08:08:00
+1069,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Library Block B,2026-10-04 13:21:00,Resolved,2026-10-07 09:21:00
+1070,Computer lab systems are down,Equipment,Hostel Block 1,2026-08-01 02:14:00,Resolved,2026-08-06 16:14:00
+1071,Wi-Fi signal is very weak here,Wi-Fi,Canteen Area,2026-09-13 16:35:00,Resolved,2026-09-14 00:35:00
+1072,Intermittent connectivity problems,Wi-Fi,Academic Block A,2026-09-02 00:16:00,In Progress,
+1073,Wi-Fi signal is very weak here,Wi-Fi,Academic Block A,2026-09-18 11:49:00,Pending,
+1074,Wi-Fi signal is very weak here,Wi-Fi,Lab Building,2026-09-23 08:36:00,Pending,
+1075,Washroom is very dirty,Cleanliness,Academic Block B,2026-08-24 04:43:00,Resolved,2026-08-28 11:43:00
+1076,Trash not being collected regularly,Cleanliness,Academic Block A,2026-08-20 16:01:00,Pending,
+1077,No water available in Block B,Water,Library Block A,2026-08-20 21:42:00,In Progress,
+1078,Water overflow in the corridor,Water,Library Block A,2026-09-22 19:20:00,Pending,
+1079,Microphone system in conference room is faulty,Equipment,Academic Block C,2026-09-26 15:37:00,Resolved,2026-10-02 05:37:00
+1080,AC is broken in the auditorium,Equipment,Hostel Block 2,2026-08-15 05:36:00,Resolved,2026-08-18 16:36:00
+1081,Prices are too high,Canteen,Hostel Block 1,2026-09-08 13:22:00,Resolved,2026-09-08 14:22:00
+1082,Floor is not cleaned properly,Cleanliness,Hostel Block 2,2026-08-01 08:36:00,Resolved,2026-08-06 02:36:00
+1083,Internet very slow in this building,Wi-Fi,Library Block A,2026-09-20 05:01:00,Resolved,2026-09-21 01:01:00
+1084,AC is broken in the auditorium,Equipment,Library Block B,2026-08-20 19:38:00,Resolved,2026-08-23 14:38:00
+1085,Washroom is very dirty,Cleanliness,Academic Block C,2026-09-25 00:02:00,Pending,
+1086,Classroom whiteboard marker supply depleted,Equipment,Canteen Area,2026-08-07 20:38:00,In Progress,
+1087,Prices are too high,Canteen,Academic Block A,2026-10-10 23:59:00,In Progress,
+1088,Projector is not working in Lecture Hall 3,Equipment,Sports Complex,2026-09-09 19:58:00,Resolved,2026-09-15 03:58:00
+1089,Intermittent connectivity problems,Wi-Fi,Main Gate Area,2026-09-14 05:36:00,Resolved,2026-09-19 06:36:00
+1090,Trash not being collected regularly,Cleanliness,Academic Block A,2026-08-15 10:47:00,Pending,
+1091,Projector is not working in Lecture Hall 3,Equipment,Sports Complex,2026-09-15 21:10:00,Resolved,2026-09-22 04:10:00
+1092,Computer lab systems are down,Equipment,Library Block B,2026-09-02 20:59:00,Resolved,2026-09-03 09:59:00
+1093,Intermittent connectivity problems,Wi-Fi,Academic Block B,2026-10-01 04:15:00,Resolved,2026-10-03 18:15:00
+1094,AC is broken in the auditorium,Equipment,Hostel Block 2,2026-08-31 13:02:00,Pending,
+1095,Sweeping and mopping not done,Cleanliness,Library Block A,2026-10-03 05:44:00,Resolved,2026-10-07 03:44:00
+1096,Intermittent connectivity problems,Wi-Fi,Sports Complex,2026-08-12 17:49:00,In Progress,
+1097,Seating capacity is insufficient,Canteen,Library Block B,2026-10-09 14:55:00,Resolved,2026-10-14 14:55:00
+1098,Prices are too high,Canteen,Library Block B,2026-08-18 00:35:00,Pending,
+1099,Microphone system in conference room is faulty,Equipment,Library Block A,2026-09-12 03:39:00,Resolved,2026-09-15 23:39:00
+1100,Long queues during lunch hours,Canteen,Library Block B,2026-08-13 06:04:00,Pending,
+1101,Classroom whiteboard marker supply depleted,Equipment,Lab Building,2026-10-03 05:06:00,Resolved,2026-10-04 03:06:00
+1102,Wi-Fi signal is very weak here,Wi-Fi,Canteen Area,2026-10-08 20:36:00,Resolved,2026-10-10 21:36:00
+1103,Menu items often unavailable,Canteen,Academic Block B,2026-09-23 21:38:00,Resolved,2026-09-28 11:38:00
+1104,Classroom whiteboard marker supply depleted,Equipment,Academic Block B,2026-10-03 12:39:00,Resolved,2026-10-09 10:39:00
+1105,Computer lab systems are down,Equipment,Academic Block B,2026-08-28 05:01:00,Resolved,2026-08-29 15:01:00
+1106,Seating capacity is insufficient,Canteen,Lab Building,2026-10-05 01:43:00,Resolved,2026-10-09 19:43:00
+1107,Dust accumulation in classroom,Cleanliness,Library Block A,2026-08-29 13:00:00,Pending,
+1108,AC is broken in the auditorium,Equipment,Library Block A,2026-08-16 23:15:00,Resolved,2026-08-19 23:15:00
+1109,Broken water tap in the lab,Water,Main Gate Area,2026-10-05 17:19:00,Resolved,2026-10-08 03:19:00
+1110,No water available in Block B,Water,Canteen Area,2026-08-22 06:08:00,Resolved,2026-08-26 06:08:00
+1111,Intermittent connectivity problems,Wi-Fi,Main Gate Area,2026-09-21 04:33:00,In Progress,
+1112,Leaking pipe near the washroom,Water,Academic Block A,2026-09-16 19:37:00,Pending,
+1113,Washroom is very dirty,Cleanliness,Academic Block C,2026-09-11 09:45:00,Resolved,2026-09-14 11:45:00
+1114,Dustbins overflowing,Cleanliness,Library Block B,2026-08-06 12:51:00,In Progress,
+1115,Broken water tap in the lab,Water,Academic Block B,2026-08-17 09:09:00,Resolved,2026-08-20 11:09:00
+1116,Network connectivity issues affecting classes,Wi-Fi,Sports Complex,2026-08-10 00:31:00,Resolved,2026-08-13 16:31:00
+1117,Water overflow in the corridor,Water,Lab Building,2026-08-20 04:54:00,Resolved,2026-08-26 09:54:00
+1118,Canteen is always crowded,Canteen,Library Block B,2026-10-08 03:57:00,Resolved,2026-10-12 21:57:00
+1119,Menu items often unavailable,Canteen,Library Block A,2026-08-07 01:05:00,Resolved,2026-08-08 18:05:00
+1120,Internet very slow in this building,Wi-Fi,Library Block B,2026-08-27 00:59:00,Resolved,2026-09-02 04:59:00
+1121,Computer lab systems are down,Equipment,Hostel Block 1,2026-08-17 15:38:00,Pending,
+1122,Cannot connect to network at all,Wi-Fi,Library Block B,2026-08-17 06:59:00,Resolved,2026-08-23 09:59:00
+1123,Long queues during lunch hours,Canteen,Main Gate Area,2026-08-17 03:20:00,Pending,
+1124,Prices are too high,Canteen,Academic Block B,2026-09-21 18:44:00,Resolved,2026-09-27 07:44:00
+1125,Cannot connect to network at all,Wi-Fi,Canteen Area,2026-09-09 22:32:00,Pending,
+1126,Seating capacity is insufficient,Canteen,Academic Block A,2026-09-08 11:50:00,Resolved,2026-09-12 23:50:00
+1127,Intermittent connectivity problems,Wi-Fi,Academic Block C,2026-08-13 21:36:00,In Progress,
+1128,Cannot connect to network at all,Wi-Fi,Academic Block B,2026-09-27 18:29:00,Resolved,2026-09-29 14:29:00
+1129,Floor is not cleaned properly,Cleanliness,Hostel Block 1,2026-09-23 17:19:00,Resolved,2026-09-27 11:19:00
+1130,Intermittent connectivity problems,Wi-Fi,Sports Complex,2026-09-25 07:14:00,In Progress,
+1131,Seating capacity is insufficient,Canteen,Academic Block C,2026-09-13 06:30:00,Pending,
+1132,Dust accumulation in classroom,Cleanliness,Main Gate Area,2026-08-16 22:02:00,Resolved,2026-08-16 23:02:00
+1133,Trash not being collected regularly,Cleanliness,Canteen Area,2026-08-14 05:35:00,Resolved,2026-08-17 21:35:00
+1134,Projector is not working in Lecture Hall 3,Equipment,Library Block A,2026-08-14 12:38:00,Resolved,2026-08-20 07:38:00
+1135,Projector is not working in Lecture Hall 3,Equipment,Hostel Block 1,2026-08-21 19:50:00,Resolved,2026-08-23 20:50:00
+1136,Menu items often unavailable,Canteen,Academic Block A,2026-08-16 04:44:00,Pending,
+1137,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Academic Block C,2026-08-05 22:28:00,In Progress,
+1138,Dustbins overflowing,Cleanliness,Sports Complex,2026-08-19 04:08:00,Pending,
+1139,AC is broken in the auditorium,Equipment,Academic Block C,2026-08-07 03:05:00,Resolved,2026-08-10 02:05:00
+1140,Intermittent connectivity problems,Wi-Fi,Library Block B,2026-09-29 19:17:00,Resolved,2026-10-02 03:17:00
+1141,Trash not being collected regularly,Cleanliness,Hostel Block 1,2026-08-07 19:45:00,Resolved,2026-08-11 17:45:00
+1142,Microphone system in conference room is faulty,Equipment,Academic Block A,2026-08-30 09:01:00,Resolved,2026-09-06 03:01:00
+1143,No water available in Block B,Water,Lab Building,2026-09-06 02:04:00,Resolved,2026-09-07 21:04:00
+1144,Washroom is very dirty,Cleanliness,Library Block B,2026-10-05 00:27:00,Pending,
+1145,Network connectivity issues affecting classes,Wi-Fi,Academic Block A,2026-08-10 13:49:00,Pending,
+1146,Door lock is broken,Equipment,Canteen Area,2026-09-04 10:23:00,In Progress,
+1147,Projector is not working in Lecture Hall 3,Equipment,Library Block B,2026-10-06 21:28:00,In Progress,
+1148,Leaking pipe near the washroom,Water,Hostel Block 2,2026-09-15 03:36:00,In Progress,
+1149,Water dispenser is not working,Water,Main Gate Area,2026-08-10 23:28:00,Resolved,2026-08-15 20:28:00
+1150,Broken water tap in the lab,Water,Lab Building,2026-10-03 11:52:00,Resolved,2026-10-09 11:52:00
+1151,Leaking pipe near the washroom,Water,Hostel Block 2,2026-09-09 00:50:00,Resolved,2026-09-10 22:50:00
+1152,Projector is not working in Lecture Hall 3,Equipment,Academic Block B,2026-09-25 05:22:00,Resolved,2026-10-01 06:22:00
+1153,AC is broken in the auditorium,Equipment,Hostel Block 2,2026-08-16 00:24:00,Resolved,2026-08-16 15:24:00
+1154,Computer lab systems are down,Equipment,Library Block A,2026-09-02 12:47:00,Pending,
+1155,Projector is not working in Lecture Hall 3,Equipment,Library Block A,2026-09-25 04:01:00,Pending,
+1156,Seating capacity is insufficient,Canteen,Hostel Block 1,2026-08-03 11:42:00,Resolved,2026-08-05 11:42:00
+1157,Classroom whiteboard marker supply depleted,Equipment,Canteen Area,2026-08-20 16:49:00,In Progress,
+1158,AC is broken in the auditorium,Equipment,Academic Block B,2026-08-17 02:55:00,Pending,
+1159,Seating capacity is insufficient,Canteen,Hostel Block 2,2026-08-24 19:02:00,In Progress,
+1160,Floor is not cleaned properly,Cleanliness,Academic Block A,2026-09-08 00:21:00,In Progress,
+1161,Projector is not working in Lecture Hall 3,Equipment,Main Gate Area,2026-09-13 07:43:00,Pending,
+1162,Router needs to be rebooted,Wi-Fi,Academic Block A,2026-09-30 23:45:00,In Progress,
+1163,No water available in Block B,Water,Academic Block B,2026-08-17 20:51:00,Resolved,2026-08-21 03:51:00
+1164,Dustbins overflowing,Cleanliness,Hostel Block 1,2026-09-03 06:16:00,Resolved,2026-09-04 02:16:00
+1165,Quality of food has deteriorated,Canteen,Canteen Area,2026-09-24 02:03:00,Resolved,2026-09-26 12:03:00
+1166,Router needs to be rebooted,Wi-Fi,Library Block B,2026-08-22 08:31:00,In Progress,
+1167,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-10-03 20:37:00,Resolved,2026-10-10 09:37:00
+1168,Classroom whiteboard marker supply depleted,Equipment,Canteen Area,2026-08-16 14:33:00,Resolved,2026-08-18 02:33:00
+1169,Long queues during lunch hours,Canteen,Main Gate Area,2026-09-27 04:42:00,In Progress,
+1170,Trash not being collected regularly,Cleanliness,Main Gate Area,2026-08-26 11:57:00,Resolved,2026-08-26 19:57:00
+1171,Water quality is poor,Water,Canteen Area,2026-08-11 10:54:00,Resolved,2026-08-11 23:54:00
+1172,Router needs to be rebooted,Wi-Fi,Library Block B,2026-09-25 07:29:00,Pending,
+1173,Internet very slow in this building,Wi-Fi,Lab Building,2026-09-14 23:16:00,Resolved,2026-09-17 10:16:00
+1174,Water quality is poor,Water,Canteen Area,2026-08-23 21:04:00,Pending,
+1175,Seating capacity is insufficient,Canteen,Library Block A,2026-08-26 12:22:00,Pending,
+1176,Projector is not working in Lecture Hall 3,Equipment,Hostel Block 1,2026-10-07 21:08:00,Pending,
+1177,Water quality is poor,Water,Main Gate Area,2026-09-10 12:09:00,Resolved,2026-09-15 03:09:00
+1178,Network connectivity issues affecting classes,Wi-Fi,Academic Block A,2026-08-02 09:45:00,Pending,
+1179,Cannot connect to network at all,Wi-Fi,Academic Block A,2026-08-19 06:24:00,Resolved,2026-08-20 06:24:00
+1180,Intermittent connectivity problems,Wi-Fi,Lab Building,2026-09-21 01:12:00,Pending,
+1181,Computer lab systems are down,Equipment,Academic Block C,2026-10-07 10:54:00,Pending,
+1182,Canteen is always crowded,Canteen,Academic Block A,2026-08-16 10:30:00,Resolved,2026-08-18 19:30:00
+1183,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Academic Block A,2026-09-25 11:58:00,Resolved,2026-09-29 22:58:00
+1184,Quality of food has deteriorated,Canteen,Academic Block B,2026-08-14 06:08:00,Resolved,2026-08-17 21:08:00
+1185,Wi-Fi signal is very weak here,Wi-Fi,Hostel Block 1,2026-08-07 20:38:00,Resolved,2026-08-13 22:38:00
+1186,Prices are too high,Canteen,Academic Block A,2026-08-18 00:50:00,Resolved,2026-08-19 08:50:00
+1187,Broken water tap in the lab,Water,Library Block A,2026-09-21 22:56:00,Resolved,2026-09-23 00:56:00
+1188,Menu items often unavailable,Canteen,Academic Block B,2026-08-19 11:31:00,Pending,
+1189,Water overflow in the corridor,Water,Academic Block A,2026-09-29 14:38:00,In Progress,
+1190,Intermittent connectivity problems,Wi-Fi,Canteen Area,2026-10-05 08:02:00,Resolved,2026-10-11 02:02:00
+1191,Long queues during lunch hours,Canteen,Library Block A,2026-09-05 01:50:00,Resolved,2026-09-09 06:50:00
+1192,Washroom is very dirty,Cleanliness,Main Gate Area,2026-08-12 05:54:00,Pending,
+1193,Dustbins overflowing,Cleanliness,Canteen Area,2026-09-27 10:59:00,In Progress,
+1194,Dustbins overflowing,Cleanliness,Academic Block A,2026-09-29 06:09:00,Resolved,2026-09-30 09:09:00
+1195,Water quality is poor,Water,Academic Block C,2026-08-01 22:11:00,Resolved,2026-08-04 22:11:00
+1196,Menu items often unavailable,Canteen,Academic Block C,2026-10-07 12:56:00,Pending,
+1197,Water overflow in the corridor,Water,Main Gate Area,2026-08-06 00:44:00,Pending,
+1198,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Main Gate Area,2026-10-05 23:05:00,Pending,
+1199,Water dispenser is not working,Water,Hostel Block 2,2026-09-18 07:43:00,Pending,
+1200,Broken water tap in the lab,Water,Lab Building,2026-08-25 10:03:00,Resolved,2026-08-28 04:03:00
+1201,Quality of food has deteriorated,Canteen,Hostel Block 2,2026-09-20 18:12:00,Resolved,2026-09-21 11:12:00
+1202,Washroom is very dirty,Cleanliness,Canteen Area,2026-09-06 15:32:00,Resolved,2026-09-12 07:32:00
+1203,Menu items often unavailable,Canteen,Academic Block A,2026-10-08 23:06:00,Resolved,2026-10-11 22:06:00
+1204,Canteen is always crowded,Canteen,Library Block B,2026-09-26 22:46:00,In Progress,
+1205,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-09-12 00:24:00,In Progress,
+1206,Menu items often unavailable,Canteen,Academic Block B,2026-08-22 11:51:00,Resolved,2026-08-23 22:51:00
+1207,Intermittent connectivity problems,Wi-Fi,Library Block A,2026-08-06 08:13:00,Resolved,2026-08-08 17:13:00
+1208,Wi-Fi signal is very weak here,Wi-Fi,Academic Block C,2026-09-21 12:43:00,Resolved,2026-09-22 19:43:00
+1209,Canteen is always crowded,Canteen,Canteen Area,2026-10-07 12:46:00,Pending,
+1210,Microphone system in conference room is faulty,Equipment,Library Block B,2026-09-11 04:02:00,Resolved,2026-09-12 11:02:00
+1211,Cannot connect to network at all,Wi-Fi,Lab Building,2026-09-25 23:35:00,Pending,
+1212,Leaking pipe near the washroom,Water,Academic Block A,2026-08-15 23:55:00,Resolved,2026-08-17 06:55:00
+1213,Canteen is always crowded,Canteen,Lab Building,2026-09-11 15:51:00,In Progress,
+1214,Menu items often unavailable,Canteen,Library Block A,2026-10-06 18:01:00,Pending,
+1215,Microphone system in conference room is faulty,Equipment,Main Gate Area,2026-08-19 00:20:00,Pending,
+1216,Dustbins overflowing,Cleanliness,Sports Complex,2026-10-03 06:48:00,Resolved,2026-10-06 09:48:00
+1217,Sweeping and mopping not done,Cleanliness,Main Gate Area,2026-08-28 09:29:00,In Progress,
+1218,Canteen is always crowded,Canteen,Hostel Block 2,2026-10-08 18:14:00,Resolved,2026-10-14 01:14:00
+1219,Door lock is broken,Equipment,Academic Block C,2026-09-20 15:50:00,Resolved,2026-09-23 19:50:00
+1220,Intermittent connectivity problems,Wi-Fi,Academic Block A,2026-08-26 23:16:00,Pending,
+1221,Classroom whiteboard marker supply depleted,Equipment,Hostel Block 2,2026-08-05 12:36:00,Resolved,2026-08-10 10:36:00
+1222,Door lock is broken,Equipment,Hostel Block 2,2026-09-21 16:47:00,Resolved,2026-09-23 05:47:00
+1223,Water dispenser is not working,Water,Academic Block B,2026-08-12 17:14:00,In Progress,
+1224,Trash not being collected regularly,Cleanliness,Lab Building,2026-08-15 00:45:00,In Progress,
+1225,Menu items often unavailable,Canteen,Academic Block A,2026-08-15 01:13:00,Pending,
+1226,Door lock is broken,Equipment,Library Block A,2026-09-03 14:28:00,Pending,
+1227,Seating capacity is insufficient,Canteen,Academic Block A,2026-08-25 15:00:00,Resolved,2026-08-26 16:00:00
+1228,Classroom whiteboard marker supply depleted,Equipment,Hostel Block 2,2026-09-25 02:08:00,Pending,
+1229,Trash not being collected regularly,Cleanliness,Academic Block C,2026-09-07 10:09:00,Resolved,2026-09-09 03:09:00
+1230,Prices are too high,Canteen,Canteen Area,2026-08-14 02:10:00,Resolved,2026-08-18 15:10:00
+1231,Long queues during lunch hours,Canteen,Academic Block C,2026-10-04 23:32:00,In Progress,
+1232,Dust accumulation in classroom,Cleanliness,Lab Building,2026-09-17 16:15:00,Resolved,2026-09-19 23:15:00
+1233,Prices are too high,Canteen,Canteen Area,2026-10-06 13:37:00,Pending,
+1234,Broken water tap in the lab,Water,Library Block A,2026-09-26 23:56:00,In Progress,
+1235,Long queues during lunch hours,Canteen,Lab Building,2026-08-12 13:19:00,Pending,
+1236,No water available in Block B,Water,Canteen Area,2026-08-18 01:46:00,In Progress,
+1237,Leaking pipe near the washroom,Water,Academic Block A,2026-09-10 11:10:00,Pending,
+1238,Microphone system in conference room is faulty,Equipment,Academic Block A,2026-10-01 22:31:00,Resolved,2026-10-02 00:31:00
+1239,Broken water tap in the lab,Water,Hostel Block 2,2026-08-23 02:36:00,In Progress,
+1240,Classroom whiteboard marker supply depleted,Equipment,Lab Building,2026-09-05 03:32:00,Resolved,2026-09-08 05:32:00
+1241,Prices are too high,Canteen,Sports Complex,2026-10-09 11:52:00,Pending,
+1242,Canteen is always crowded,Canteen,Academic Block A,2026-09-23 13:26:00,In Progress,
+1243,Network connectivity issues affecting classes,Wi-Fi,Library Block B,2026-10-09 09:31:00,Pending,
+1244,Trash not being collected regularly,Cleanliness,Sports Complex,2026-08-24 20:58:00,In Progress,
+1245,Leaking pipe near the washroom,Water,Lab Building,2026-10-08 21:26:00,Resolved,2026-10-12 04:26:00
+1246,Washroom is very dirty,Cleanliness,Academic Block B,2026-09-06 23:47:00,Resolved,2026-09-13 11:47:00
+1247,Projector is not working in Lecture Hall 3,Equipment,Sports Complex,2026-08-21 19:19:00,Resolved,2026-08-25 22:19:00
+1248,Network connectivity issues affecting classes,Wi-Fi,Main Gate Area,2026-09-29 22:37:00,Resolved,2026-10-06 08:37:00
+1249,Sweeping and mopping not done,Cleanliness,Sports Complex,2026-08-31 23:02:00,Resolved,2026-09-06 10:02:00
+1250,Dustbins overflowing,Cleanliness,Academic Block A,2026-09-13 13:10:00,Pending,
+1251,Computer lab systems are down,Equipment,Sports Complex,2026-08-30 12:28:00,In Progress,
+1252,Router needs to be rebooted,Wi-Fi,Hostel Block 1,2026-08-08 08:15:00,Resolved,2026-08-09 23:15:00
+1253,Trash not being collected regularly,Cleanliness,Lab Building,2026-08-30 02:35:00,Pending,
+1254,Prices are too high,Canteen,Lab Building,2026-08-09 23:50:00,In Progress,
+1255,Sweeping and mopping not done,Cleanliness,Sports Complex,2026-08-01 22:38:00,Pending,
+1256,Router needs to be rebooted,Wi-Fi,Academic Block C,2026-09-13 20:51:00,Pending,
+1257,Intermittent connectivity problems,Wi-Fi,Academic Block B,2026-08-02 11:13:00,Resolved,2026-08-08 08:13:00
+1258,Dust accumulation in classroom,Cleanliness,Main Gate Area,2026-08-20 15:46:00,Pending,
+1259,Projector is not working in Lecture Hall 3,Equipment,Hostel Block 1,2026-08-18 09:09:00,In Progress,
+1260,Projector is not working in Lecture Hall 3,Equipment,Academic Block B,2026-08-04 23:49:00,Pending,
+1261,Projector is not working in Lecture Hall 3,Equipment,Main Gate Area,2026-09-29 07:00:00,In Progress,
+1262,Computer lab systems are down,Equipment,Hostel Block 1,2026-08-07 10:41:00,Resolved,2026-08-07 11:41:00
+1263,Prices are too high,Canteen,Academic Block C,2026-08-20 12:51:00,In Progress,
+1264,Long queues during lunch hours,Canteen,Main Gate Area,2026-08-28 20:42:00,In Progress,
+1265,Router needs to be rebooted,Wi-Fi,Library Block A,2026-08-02 10:33:00,In Progress,
+1266,Water dispenser is not working,Water,Lab Building,2026-08-15 08:27:00,Resolved,2026-08-18 04:27:00
+1267,Microphone system in conference room is faulty,Equipment,Academic Block C,2026-09-22 00:00:00,Pending,
+1268,Computer lab systems are down,Equipment,Canteen Area,2026-08-04 04:41:00,Pending,
+1269,Leaking pipe near the washroom,Water,Academic Block C,2026-10-03 02:16:00,Resolved,2026-10-03 03:16:00
+1270,Floor is not cleaned properly,Cleanliness,Canteen Area,2026-08-02 22:30:00,Resolved,2026-08-05 02:30:00
+1271,Prices are too high,Canteen,Sports Complex,2026-09-10 19:33:00,Resolved,2026-09-11 22:33:00
+1272,Leaking pipe near the washroom,Water,Academic Block C,2026-08-10 10:05:00,Pending,
+1273,Internet very slow in this building,Wi-Fi,Academic Block A,2026-08-03 07:14:00,Resolved,2026-08-10 05:14:00
+1274,Classroom whiteboard marker supply depleted,Equipment,Academic Block C,2026-09-28 16:00:00,In Progress,
+1275,Trash not being collected regularly,Cleanliness,Academic Block A,2026-10-05 07:40:00,Resolved,2026-10-08 19:40:00
+1276,Broken water tap in the lab,Water,Canteen Area,2026-08-07 02:01:00,In Progress,
+1277,Menu items often unavailable,Canteen,Academic Block C,2026-10-03 01:07:00,In Progress,
+1278,Seating capacity is insufficient,Canteen,Academic Block B,2026-09-25 18:07:00,Resolved,2026-09-26 11:07:00
+1279,Long queues during lunch hours,Canteen,Library Block A,2026-08-03 02:21:00,In Progress,
+1280,Menu items often unavailable,Canteen,Canteen Area,2026-09-12 05:27:00,Resolved,2026-09-18 22:27:00
+1281,Wi-Fi keeps disconnecting in the study area,Wi-Fi,Academic Block B,2026-09-13 12:15:00,Resolved,2026-09-20 10:15:00
+1282,Leaking pipe near the washroom,Water,Library Block A,2026-09-18 14:58:00,Resolved,2026-09-22 10:58:00
+1283,Projector is not working in Lecture Hall 3,Equipment,Lab Building,2026-08-26 13:49:00,Resolved,2026-09-02 09:49:00
+1284,Washroom is very dirty,Cleanliness,Hostel Block 1,2026-08-07 12:55:00,Resolved,2026-08-13 02:55:00
+1285,Water dispenser is not working,Water,Library Block B,2026-09-16 20:51:00,In Progress,
+1286,Quality of food has deteriorated,Canteen,Library Block A,2026-10-06 06:06:00,Pending,
+1287,Projector is not working in Lecture Hall 3,Equipment,Academic Block B,2026-08-16 20:06:00,Resolved,2026-08-17 18:06:00
+1288,Water quality is poor,Water,Hostel Block 2,2026-09-29 19:08:00,Resolved,2026-10-01 16:08:00
+1289,Sweeping and mopping not done,Cleanliness,Sports Complex,2026-08-15 09:33:00,Resolved,2026-08-20 11:33:00
+1290,Sweeping and mopping not done,Cleanliness,Lab Building,2026-10-02 08:37:00,Pending,
+1291,Classroom whiteboard marker supply depleted,Equipment,Library Block B,2026-09-12 18:42:00,Resolved,2026-09-14 14:42:00
+1292,Leaking pipe near the washroom,Water,Library Block B,2026-08-03 12:19:00,Pending,
+1293,Quality of food has deteriorated,Canteen,Hostel Block 1,2026-08-21 18:08:00,Pending,
+1294,Long queues during lunch hours,Canteen,Sports Complex,2026-09-17 08:07:00,Resolved,2026-09-23 16:07:00
+1295,Door lock is broken,Equipment,Library Block B,2026-08-13 12:55:00,In Progress,
+1296,Dust accumulation in classroom,Cleanliness,Main Gate Area,2026-08-16 15:32:00,Resolved,2026-08-22 18:32:00
+1297,Computer lab systems are down,Equipment,Library Block B,2026-09-11 19:25:00,Resolved,2026-09-15 11:25:00
+1298,Quality of food has deteriorated,Canteen,Academic Block B,2026-09-01 14:32:00,In Progress,
+1299,Dust accumulation in classroom,Cleanliness,Canteen Area,2026-10-04 04:58:00,In Progress,
+1300,Projector is not working in Lecture Hall 3,Equipment,Academic Block B,2026-08-25 01:58:00,Resolved,2026-08-28 15:58:00
+1301,Network connectivity issues affecting classes,Wi-Fi,Hostel Block 1,2026-09-07 09:33:00,Pending,
+1302,Broken water tap in the lab,Water,Academic Block B,2026-10-06 15:32:00,Resolved,2026-10-11 19:32:00
+1303,Long queues during lunch hours,Canteen,Academic Block B,2026-10-01 13:50:00,Resolved,2026-10-02 05:50:00
+1304,Leaking pipe near the washroom,Water,Library Block A,2026-09-07 05:37:00,Pending,
+1305,No water available in Block B,Water,Sports Complex,2026-08-17 12:38:00,Pending,
+1306,Leaking pipe near the washroom,Water,Canteen Area,2026-09-14 15:55:00,Resolved,2026-09-16 16:55:00
+1307,Dust accumulation in classroom,Cleanliness,Library Block A,2026-09-08 06:37:00,Resolved,2026-09-09 21:37:00
+1308,Intermittent connectivity problems,Wi-Fi,Canteen Area,2026-08-22 00:09:00,Resolved,2026-08-27 18:09:00
+1309,Water quality is poor,Water,Lab Building,2026-09-22 01:00:00,Pending,
+1310,Canteen is always crowded,Canteen,Canteen Area,2026-08-21 23:42:00,Pending,
+1311,Canteen is always crowded,Canteen,Academic Block A,2026-10-08 23:01:00,In Progress,
+1312,Prices are too high,Canteen,Lab Building,2026-08-27 03:59:00,Pending,
+1313,Projector is not working in Lecture Hall 3,Equipment,Sports Complex,2026-08-23 21:02:00,Pending,
+1314,Menu items often unavailable,Canteen,Main Gate Area,2026-10-06 15:30:00,Resolved,2026-10-09 00:30:00
+1315,Floor is not cleaned properly,Cleanliness,Hostel Block 1,2026-09-08 17:10:00,In Progress,
+1316,Projector is not working in Lecture Hall 3,Equipment,Academic Block C,2026-08-08 04:51:00,Resolved,2026-08-14 02:51:00
+1317,Water overflow in the corridor,Water,Canteen Area,2026-09-12 08:25:00,Pending,
+1318,No water available in Block B,Water,Hostel Block 2,2026-08-07 13:52:00,Resolved,2026-08-08 00:52:00
+1319,Sweeping and mopping not done,Cleanliness,Hostel Block 1,2026-09-13 05:30:00,Pending,
+1320,Water quality is poor,Water,Canteen Area,2026-09-06 10:57:00,Pending,
+1321,Washroom is very dirty,Cleanliness,Academic Block A,2026-08-12 22:01:00,Pending,
+1322,Computer lab systems are down,Equipment,Academic Block B,2026-09-20 16:36:00,Resolved,2026-09-26 13:36:00
+1323,Washroom is very dirty,Cleanliness,Hostel Block 2,2026-08-13 23:58:00,In Progress,
+1324,Network connectivity issues affecting classes,Wi-Fi,Main Gate Area,2026-09-18 21:33:00,In Progress,
+1325,Menu items often unavailable,Canteen,Library Block A,2026-08-09 05:24:00,In Progress,
+1326,Dust accumulation in classroom,Cleanliness,Academic Block B,2026-10-06 12:02:00,Resolved,2026-10-07 13:02:00
+1327,Water dispenser is not working,Water,Academic Block A,2026-09-07 02:57:00,In Progress,
+1328,Dust accumulation in classroom,Cleanliness,Academic Block C,2026-10-05 17:41:00,In Progress,
+1329,Network connectivity issues affecting classes,Wi-Fi,Canteen Area,2026-09-26 01:04:00,Resolved,2026-09-26 22:04:00
+1330,Sweeping and mopping not done,Cleanliness,Academic Block C,2026-09-22 16:28:00,Resolved,2026-09-23 16:28:00
+1331,Cannot connect to network at all,Wi-Fi,Lab Building,2026-09-22 11:48:00,Resolved,2026-09-29 00:48:00
+1332,Water quality is poor,Water,Library Block B,2026-08-16 05:10:00,Pending,
+1333,Dustbins overflowing,Cleanliness,Main Gate Area,2026-10-06 01:20:00,Resolved,2026-10-07 06:20:00
+1334,Wi-Fi signal is very weak here,Wi-Fi,Library Block A,2026-09-18 11:01:00,Pending,
+1335,Quality of food has deteriorated,Canteen,Hostel Block 1,2026-09-05 23:07:00,Pending,
+1336,Sweeping and mopping not done,Cleanliness,Hostel Block 1,2026-09-19 17:07:00,Resolved,2026-09-20 17:07:00
+1337,Intermittent connectivity problems,Wi-Fi,Academic Block A,2026-08-30 05:40:00,Resolved,2026-08-31 00:40:00
+1338,Menu items often unavailable,Canteen,Library Block B,2026-09-10 20:31:00,Resolved,2026-09-16 11:31:00
+1339,Door lock is broken,Equipment,Lab Building,2026-09-02 09:15:00,Resolved,2026-09-02 11:15:00
+1340,Water overflow in the corridor,Water,Lab Building,2026-08-03 08:58:00,Pending,
+1341,Sweeping and mopping not done,Cleanliness,Library Block B,2026-08-01 20:31:00,Pending,
+1342,Cannot connect to network at all,Wi-Fi,Lab Building,2026-09-03 22:43:00,Resolved,2026-09-08 01:43:00
+1343,Microphone system in conference room is faulty,Equipment,Lab Building,2026-10-04 09:20:00,Resolved,2026-10-11 02:20:00
+1344,Water quality is poor,Water,Library Block B,2026-10-03 22:11:00,In Progress,
+1345,Internet very slow in this building,Wi-Fi,Library Block A,2026-08-25 07:18:00,Resolved,2026-08-27 13:18:00
+1346,AC is broken in the auditorium,Equipment,Library Block A,2026-09-13 13:27:00,Resolved,2026-09-19 19:27:00
+1347,Water overflow in the corridor,Water,Main Gate Area,2026-08-03 21:29:00,In Progress,
+1348,Water dispenser is not working,Water,Library Block A,2026-08-06 20:17:00,In Progress,
+1349,No water available in Block B,Water,Academic Block B,2026-08-03 19:09:00,Resolved,2026-08-04 18:09:00
+1350,Broken water tap in the lab,Water,Sports Complex,2026-08-19 12:24:00,Resolved,2026-08-22 05:24:00
+1351,Microphone system in conference room is faulty,Equipment,Main Gate Area,2026-08-06 20:02:00,Resolved,2026-08-10 11:02:00
+1352,Seating capacity is insufficient,Canteen,Academic Block A,2026-09-01 12:12:00,Resolved,2026-09-06 04:12:00
+1353,No water available in Block B,Water,Academic Block B,2026-09-26 18:13:00,Pending,
+1354,Quality of food has deteriorated,Canteen,Main Gate Area,2026-08-18 20:16:00,Resolved,2026-08-21 04:16:00
+1355,Router needs to be rebooted,Wi-Fi,Main Gate Area,2026-09-23 18:13:00,Resolved,2026-09-29 13:13:00
+1356,Network connectivity issues affecting classes,Wi-Fi,Academic Block A,2026-08-07 06:55:00,Resolved,2026-08-07 16:55:00
+1357,Classroom whiteboard marker supply depleted,Equipment,Canteen Area,2026-09-28 07:44:00,In Progress,
+1358,Dust accumulation in classroom,Cleanliness,Lab Building,2026-09-13 17:23:00,Resolved,2026-09-15 23:23:00
+1359,Trash not being collected regularly,Cleanliness,Academic Block C,2026-10-07 13:27:00,Pending,
+1360,Dust accumulation in classroom,Cleanliness,Academic Block A,2026-08-10 11:40:00,Resolved,2026-08-15 06:40:00
+1361,Prices are too high,Canteen,Sports Complex,2026-08-07 00:06:00,Resolved,2026-08-13 09:06:00
+1362,Canteen is always crowded,Canteen,Hostel Block 1,2026-08-23 02:42:00,Pending,
+1363,Projector is not working in Lecture Hall 3,Equipment,Academic Block C,2026-09-27 00:49:00,Resolved,2026-09-29 19:49:00
+1364,Projector is not working in Lecture Hall 3,Equipment,Academic Block B,2026-09-09 19:47:00,Resolved,2026-09-12 04:47:00
+1365,Water quality is poor,Water,Sports Complex,2026-08-10 13:45:00,Resolved,2026-08-14 14:45:00
+1366,No water available in Block B,Water,Library Block A,2026-09-05 18:58:00,Resolved,2026-09-08 02:58:00
+1367,AC is broken in the auditorium,Equipment,Lab Building,2026-10-03 13:28:00,Pending,
+1368,Network connectivity issues affecting classes,Wi-Fi,Library Block A,2026-09-14 04:03:00,In Progress,
+1369,Seating capacity is insufficient,Canteen,Academic Block B,2026-10-02 09:07:00,Pending,
+1370,Prices are too high,Canteen,Academic Block A,2026-09-10 08:15:00,Resolved,2026-09-11 11:15:00
+1371,AC is broken in the auditorium,Equipment,Library Block B,2026-09-14 06:30:00,In Progress,
+1372,Wi-Fi signal is very weak here,Wi-Fi,Main Gate Area,2026-08-02 16:02:00,Resolved,2026-08-08 06:02:00
+1373,Classroom whiteboard marker supply depleted,Equipment,Academic Block A,2026-09-04 01:11:00,Resolved,2026-09-05 17:11:00
+1374,AC is broken in the auditorium,Equipment,Library Block B,2026-09-22 22:31:00,Resolved,2026-09-26 15:31:00
+1375,Intermittent connectivity problems,Wi-Fi,Academic Block C,2026-09-01 06:33:00,Pending,
+1376,Internet very slow in this building,Wi-Fi,Library Block A,2026-09-28 13:07:00,Pending,
+1377,Intermittent connectivity problems,Wi-Fi,Canteen Area,2026-08-29 16:03:00,Pending,
+1378,Prices are too high,Canteen,Academic Block B,2026-08-23 20:18:00,Resolved,2026-08-27 19:18:00
+1379,Water dispenser is not working,Water,Main Gate Area,2026-09-14 18:07:00,Pending,
+1380,Computer lab systems are down,Equipment,Library Block A,2026-10-02 14:42:00,Resolved,2026-10-05 04:42:00
+1381,Water quality is poor,Water,Canteen Area,2026-08-14 20:26:00,Pending,
+1382,Door lock is broken,Equipment,Canteen Area,2026-10-02 01:26:00,Pending,
+1383,Seating capacity is insufficient,Canteen,Academic Block C,2026-09-17 23:49:00,In Progress,
+1384,Prices are too high,Canteen,Main Gate Area,2026-09-07 21:58:00,Pending,
+1385,Water overflow in the corridor,Water,Hostel Block 2,2026-09-07 08:36:00,Resolved,2026-09-10 08:36:00
+1386,Water quality is poor,Water,Main Gate Area,2026-09-02 16:49:00,Resolved,2026-09-07 11:49:00
+1387,Router needs to be rebooted,Wi-Fi,Library Block B,2026-08-13 12:31:00,In Progress,
+1388,Network connectivity issues affecting classes,Wi-Fi,Academic Block B,2026-09-21 19:06:00,In Progress,
+1389,Water quality is poor,Water,Academic Block C,2026-09-20 22:45:00,Pending,
+1390,Trash not being collected regularly,Cleanliness,Library Block B,2026-09-02 13:51:00,Pending,
+1391,Leaking pipe near the washroom,Water,Library Block A,2026-09-24 06:52:00,Pending,
+1392,Long queues during lunch hours,Canteen,Academic Block A,2026-09-12 17:53:00,Pending,
+1393,Water overflow in the corridor,Water,Academic Block B,2026-08-30 19:19:00,Resolved,2026-09-02 08:19:00
+1394,Router needs to be rebooted,Wi-Fi,Main Gate Area,2026-09-24 11:27:00,Pending,
+1395,Seating capacity is insufficient,Canteen,Main Gate Area,2026-09-13 08:20:00,Resolved,2026-09-14 18:20:00
+1396,Trash not being collected regularly,Cleanliness,Lab Building,2026-09-27 09:41:00,Resolved,2026-09-30 06:41:00
+1397,Water quality is poor,Water,Academic Block C,2026-09-18 21:01:00,Resolved,2026-09-25 20:01:00
+1398,Classroom whiteboard marker supply depleted,Equipment,Sports Complex,2026-08-30 21:31:00,Resolved,2026-09-06 18:31:00
+1399,Water quality is poor,Water,Lab Building,2026-08-17 19:02:00,Resolved,2026-08-21 13:02:00

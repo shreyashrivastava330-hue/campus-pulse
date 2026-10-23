@@ -1,0 +1,3 @@
+"""
+CampusPulse test suite.
+"""
