@@ -19,9 +19,31 @@ from warehouse import CampusIssueWarehouse
 from mining import CampusIssueMiner
 
 
+def initialize_database():
+    """Initialize database if it doesn't exist."""
+    db_path = "data/campus_issues.db"
+    csv_path = "data/campus_issues.csv"
+
+    # Ensure data directory exists
+    os.makedirs("data", exist_ok=True)
+
+    # If database doesn't exist, generate data and initialize it
+    if not os.path.exists(db_path):
+        # Generate synthetic data if CSV doesn't exist
+        if not os.path.exists(csv_path):
+            from generate_data import generate_dataset
+            generate_dataset(400, csv_path)
+
+        # Build warehouse and load data
+        wh = CampusIssueWarehouse(db_path)
+        wh.load_data(csv_path)
+        wh.close()
+
+
 @st.cache_resource
 def get_warehouse():
     """Cache the warehouse connection."""
+    initialize_database()
     return CampusIssueWarehouse("data/campus_issues.db")
 
 
@@ -137,10 +159,11 @@ def show_overview(wh):
             """, wh.conn)
 
             if len(df_loc) > 0:
-                fig_loc = px.barh(df_loc, y="building_name", x="count",
-                                  title="Top 10 Locations by Issue Count",
-                                  labels={"building_name": "Location", "count": "Count"},
-                                  color="count", color_continuous_scale="Blues")
+                fig_loc = px.bar(df_loc, y="building_name", x="count",
+                                 orientation="h",
+                                 title="Top 10 Locations by Issue Count",
+                                 labels={"building_name": "Location", "count": "Count"},
+                                 color="count", color_continuous_scale="Blues")
                 st.plotly_chart(fig_loc, use_container_width=True)
             else:
                 st.info("No location data available.")
